@@ -2,7 +2,7 @@
 ## Objective: 
 Transform raw finance data into valuable insights, such as identifying when each salesperson meets their targets and calculating Year-to-Date (YTD) performance.
 
-##Source Data:
+## Source Data:
 Contain four table:
 two Fact Table=> Actual Sales and Target Sales data for each sales person
 two Dim Table=> date table and person (contain sales persons data ) 
